@@ -9,4 +9,13 @@ print 24
 print '時です'
 
 # Sleep
-sleep 2 ; puts 'Uhiii'
+#sleep 2 
+ puts 'Uhiii'
+
+# The Variable
+a = 1
+b = 50
+s = 'JoJo'
+
+print a + b
+print s
