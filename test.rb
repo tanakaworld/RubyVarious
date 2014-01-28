@@ -19,3 +19,7 @@ s = 'JoJo'
 
 print a + b
 print s
+
+# The Method
+puts('Hello')
+puts(100)
