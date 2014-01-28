@@ -23,3 +23,6 @@ print s
 # The Method
 puts('Hello')
 puts(100)
+
+# Four Arithmetic Operations
+puts 5 + 5 * 5 # 30
