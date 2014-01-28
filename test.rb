@@ -5,3 +5,12 @@ if num == 0
 else
 	puts 'Ohhh...'
 end
+
+
+count = 0
+while count < 5
+	puts count
+	count += 1
+end
+puts 'End Loop'
+puts count
