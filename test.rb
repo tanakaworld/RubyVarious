@@ -1,10 +1,7 @@
-#input_value = gets
-#puts input_value
+num =  gets.to_i
 
-# Return Double Input Value.
-#input = gets
-#num = input.to_i
-#puts num * 2
-
-
-puts gets.to_i * 5
+if num == 0
+	puts 'Yeah'
+else
+	puts 'Ohhh...'
+end
