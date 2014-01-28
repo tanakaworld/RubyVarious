@@ -9,6 +9,4 @@ print 24
 print '時です'
 
 # Sleep
-sleep 2
-puts 'Uhiii' 
-
+sleep 2 ; puts 'Uhiii'
